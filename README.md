@@ -1,4 +1,11 @@
-## Hi there 👋
+# About me
+
+C++ and Python developer
+
+## Interests
+- Physics, math, chemistry, and computer science
+- My main physics interests are relativity, quantum mechanics and black holes
+- Space in general
 
 <!--
 **onnoholzmann/onnoholzmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
